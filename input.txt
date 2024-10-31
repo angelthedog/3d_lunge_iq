@@ -1,0 +1,2 @@
+test1.bvh,8,9,10
+test2.bvh,7,9,8
